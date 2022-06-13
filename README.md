@@ -21,7 +21,7 @@ What you need on your computer:
 8. Please kindly share and let everyone use this tool.
 9. Have fun.
 
-Feel free to ask any questions if you're stuck.
+Feel free to ask questions if you get stuck.
 
 
 '''
