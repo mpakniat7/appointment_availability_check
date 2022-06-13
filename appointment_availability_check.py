@@ -40,7 +40,7 @@ send_program_start_message()
 
 while not is_time_available:
 
-    chrome_driver_path = "D:\ProgramFiles\Development\chromedriver"
+    chrome_driver_path = "chromedriver.exe full address here. For example: C:\ProgramFiles\Development\chromedriver"
     chrome_options = Options()
     chrome_options.add_argument("--start-maximized")
     driver = webdriver.Chrome(executable_path=chrome_driver_path, options=chrome_options)
