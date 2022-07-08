@@ -1,5 +1,9 @@
-# appointment_availability_check
+# TELEGRAM: @visametricappointmentstatus
 '''
+# DUE TO AN UPDATE ON THE WEBSITE, THIS CODE IS NO LONGER VALID.
+# PLEASE SUBSCRIBE TO THIS TELEGRAM CHANNEL TO BE NOTIFIED WHEN AN APPOINTMENT IS AVAILABLE.
+# @visametricappointmentstatus
+
 
 This free code checks if there is an available visa interview appointment in German embassy in Iran and informs the owner per SMS.
 
